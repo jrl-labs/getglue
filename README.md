@@ -70,12 +70,6 @@ API Resources
 * Intro to APIs in Python by [code academy](http://www.codecademy.com/tracks/apis-python)
 
 
-Python packages
----------------
-
-**Requests:**  A module used to request information from URLs.
-
-**json:** Module to read/write json objects
 
 ---
 
@@ -93,6 +87,17 @@ Why should you learn Python?
 
 * Can be naturally used for scientific computing, scraping webpages, simple text scripts, transforming text files from one form to another
 * Python code is often very simple and easy to read
+
+
+Python packages
+---------------
+
+* [Sklearn](http://scikit-learn.org/stable/) Machine learning library that makes stuff like cross validation easy.
+* [Statsmodels](statsmodels.sourceforge.net) Statistics library that works much like the core R library
+* [Pandas](pandas.pydata.org) Data munging and EDA library that is very well written
+* [Requests](http://docs.python-requests.org/en/latest/)  A module used to request information from URLs.
+* [Json](http://docs.python.org/2/library/json.html) library for working with json data
+
 
 Python resources
 ----------------
