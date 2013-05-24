@@ -32,7 +32,7 @@ def query_moviename(moviename, key, page_limit=50):
     params = {'apikey': key, 'page_limit': page_limit, 'q': moviename}
 
     r = requests.get(url, params=params)
-    #result = json.loads(r.text)
+
     movies = r.json
 
     return movies
