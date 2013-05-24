@@ -3,9 +3,9 @@ import csv
 from numpy.random import choice
 import sys
 
-infile = 'data/getglue_sample.json'
-outfile = 'data/subsampled.json'
-num_users_to_keep = 10000
+infile = 'data/subsampled_3000.json'
+outfile = 'data/subsampled_300.json'
+num_users_to_keep = 300
 
 
 def main():
